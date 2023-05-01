@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelina-aker
 - ✨ I’m looking to collaborate on ...
-- 📫 How to reach me ... on Kroger's Cyber Resilience Team 
+- 📫 How to reach me ... 
 
 <!---
 angelina-aker/angelina-aker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
